@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.eecs.mit.edu/'>PhD Student at MIT</a>. Computer Science Researcher.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
+  image_circular: true # crops the image to make it circular
+  <!-- address: >
     <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>32 Vassar St</p>
+    <p>Cambridge, MA 02139</p> -->
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Charlotte! I am currently a first year EECS PhD student at MIT, affiliated with the [Labaratory for Information and Decision Systems](https://lids.mit.edu/) (MIT LIDS). I am advised by [Devavrat Shah](https://devavrat.mit.edu/). My research interests lie in causal inference, algorithms, and more broadly in both theoretical computer science and ML theory.
 
-Prior to starting at MIT, a received my bachelors from Caltech in Computer Science. During my time at Caltech, I worked with [Leonard Schulman](http://users.cms.caltech.edu/~schulman/) in the [Theory of Computation] (http://theory.cms.caltech.edu/) group, working on causal identification algorithms within the Do-Calculus framework. During two of my undergraduate summers, I worked in the [Supertech](https://supertech.mit.edu/) group at MIT with [Charles Leiserson](https://people.csail.mit.edu/cel/).
+Prior to starting at MIT, a received my bachelors from Caltech in Computer Science. During my time at Caltech, I worked with [Leonard Schulman](http://users.cms.caltech.edu/~schulman/) in the [Theory of Computation](http://theory.cms.caltech.edu/) group, working on causal identification algorithms within the Do-Calculus framework. During two of my undergraduate summers, I worked in the [Supertech](https://supertech.mit.edu/) group at MIT with [Charles Leiserson](https://people.csail.mit.edu/cel/).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research is supported by an MIT Presidential Fellowship.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
