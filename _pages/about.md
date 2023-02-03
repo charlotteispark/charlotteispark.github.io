@@ -8,10 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  <!-- address: >
-    <p>555 your office number</p>
-    <p>32 Vassar St</p>
-    <p>Cambridge, MA 02139</p> -->
+  address:
+    <p>Cambridge, MA</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
