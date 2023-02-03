@@ -57,20 +57,24 @@
         - UCEM Scholar (MIT)
 
 - title: Teaching Experience
-  type: nested_list
+  type: time_table
   contents:
     - title: Algorithms (CS 38)
+      year: Spring 2022
       items:
-        - Head Teaching Assistant Spring 2022, Teaching Assistant Spring 2021
-        - Undergraduate level
+        - Head Teaching Assistant for undergraduate course
     - title: Machine Learning & Data Mining (CS/CNS/EE 155)
+      year: Winter 2022
       items:
-        - Teaching Assistant Winter 2022
-        - Graduate level
+        - Teaching Assistant for graduate course
+    - title: Algorithms (CS 38)
+      year: Spring 2021
+      items:
+        - Teaching Assistant for undergraduate course
     - title: Introduction to Programming Methods (CS 2)
+      year: Winter 2021
       items:
-        - Teaching Assistant Winter 2021
-        - Undergraduate level
+        - Teaching Assistant for undergraduate course
 
 # - title: Academic Interests
 #   type: nested_list
