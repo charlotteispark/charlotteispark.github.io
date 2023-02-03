@@ -13,42 +13,48 @@
       institution: Massachusetts Institute of Technology
       year: 2022-2027
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Advised by Professor Devavrat Shah
     - title: BS
       institution: California Institute of Technology
       year: 2018-2022
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 4.1/4.3
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Graduate Student Researcher
+    - title: Graduate Researcher (PhD Student)
       institution: Massachusetts Institute of Technology, Cambridge, MA
-      year: 2022-2027
+      year: 2022-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Working to design a counterfactual simulator for social systems relying solely on historical, observational data.
+        - Designing an algorithm for counterfactual estimation based on sequential user-interaction data from an e-commerce platform with 250 million+ users.
+        - Developing methods in causalinference, high-dimensional statistics, and machine learning.
     - title: Undergraduate Researcher
       institution: California Institute of Technology, Pasadena, CA
       year: 2021-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Worked on causal inference and causal identification algorithms in the DAG framework.
+        - Presented final work as senior thesis for B.S. in Computer Science.
+        - Provided formal proof of the 3 rules of Do-Calculus and rigorously proved hedge criterion.
+
 
     - title: Visiting Undergraduate Researcher
       institution: Massachusetts Institute of Technology, Cambridge, MA
       year: 2020-2021
+      description:
+        - title: Summer 2021
+          contents:
+            - Optimized ray tracing engine in C while generating reproducible results.
+            - Parallelized code using OpenCilk and obtained profiling results on machines
+with up to 8 cores.
+            - Performed work-span analysis to analyze potential for parallelism. Optimized
+both serial and parallel code to obtain runtimes up to 75 times as fast as original code.
+        - title: Summer 2020
+          contents:
+            - Worked on optimization of child filtering in spatial partition trees using uncompressed and compressed tries.
+            - Examined various algorithmic techniques for constructing theoretically optimal tries.
+            - Developed and implemented heuristic algorithm for reordering trie codes in C.
 
 
 - title: Honors and Awards
