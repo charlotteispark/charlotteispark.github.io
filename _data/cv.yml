@@ -44,10 +44,8 @@
         - title: Summer 2021
           contents:
             - Optimized ray tracing engine in C while generating reproducible results.
-            - Parallelized code using OpenCilk and obtained profiling results on machines
-with up to 8 cores.
-            - Performed work-span analysis to analyze potential for parallelism. Optimized
-both serial and parallel code to obtain runtimes up to 75 times as fast as original code.
+            - Parallelized code using OpenCilk and obtained profiling results on machines with up to 8 cores.
+            - Performed work-span analysis to analyze potential for parallelism. Optimized both serial and parallel code to obtain runtimes up to 75 times as fast as original code.
         - title: Summer 2020
           contents:
             - Worked on optimization of child filtering in spatial partition trees using uncompressed and compressed tries.
