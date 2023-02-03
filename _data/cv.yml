@@ -25,33 +25,28 @@
       institution: Massachusetts Institute of Technology, Cambridge, MA
       year: 2022-Present
       description:
-        - Working to design a counterfactual simulator for social systems relying solely on historical, observational data.
-        - Designing an algorithm for counterfactual estimation based on sequential user-interaction data from an e-commerce platform with 250 million+ users.
-        - Developing methods in causalinference, high-dimensional statistics, and machine learning.
+        - Advised by Professor Devavrat Shah
+        - Developing methods in causal inference, high-dimensional statistics, and machine learning
+
     - title: Undergraduate Researcher
       institution: California Institute of Technology, Pasadena, CA
       year: 2021-2022
       description:
-        - Worked on causal inference and causal identification algorithms in the DAG framework.
-        - Presented final work as senior thesis for B.S. in Computer Science.
-        - Provided formal proof of the 3 rules of Do-Calculus and rigorously proved hedge criterion.
+        - Advised by Professor Leonard Schulman
+        - Worked on causal inference, Do-Calculus, and causal identification algorithms in the DAG framework
 
 
     - title: Visiting Undergraduate Researcher
       institution: Massachusetts Institute of Technology, Cambridge, MA
       year: 2020-2021
       description:
+        - Advised by Professor Charles E. Leiserson
         - title: Summer 2021
           contents:
-            - Optimized ray tracing engine in C while generating reproducible results.
-            - Parallelized code using OpenCilk and obtained profiling results on machines with up to 8 cores.
-            - Performed work-span analysis to analyze potential for parallelism. Optimized both serial and parallel code to obtain runtimes up to 75 times as fast as original code.
+            - Worked on parallelization methods in C that can generate reproducible results
         - title: Summer 2020
           contents:
-            - Worked on optimization of child filtering in spatial partition trees using uncompressed and compressed tries.
-            - Examined various algorithmic techniques for constructing theoretically optimal tries.
-            - Developed and implemented heuristic algorithm for reordering trie codes in C.
-
+            - Worked on algorithms for variant of pattern matching problem to filter child nodes in spatial partition trees
 
 - title: Honors and Awards
   type: time_table
@@ -60,6 +55,22 @@
       items:
         - MIT Presidential Fellowship
         - UCEM Scholar (MIT)
+
+- title: Teaching Experience
+  type: nested_list
+  contents:
+    - title: Algorithms (CS 38)
+      items:
+        - Head Teaching Assistant Spring 2022, Teaching Assistant Spring 2021
+        - Undergraduate level
+    - title: Machine Learning & Data Mining (CS/CNS/EE 155)
+      items:
+        - Teaching Assistant Winter 2022
+        - Graduate level
+    - title: Introduction to Programming Methods (CS 2)
+      items:
+        - Teaching Assistant Winter 2021
+        - Undergraduate level
 
 # - title: Academic Interests
 #   type: nested_list
