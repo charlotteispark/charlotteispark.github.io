@@ -18,6 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+
+Hi, I'm Charlotte! I am currently a first year EECS PhD student at MIT, affiliated with the Labaratory for Information and Decision Systems (MIT LIDS). I am advised by Devavrat Shah. My research interests lie in causal inference, algorithms, and more broadly in both theoretical computer science and ML theory.
+
+Prior to starting at MIT, a received my bachelors from Caltech in Computer Science. During my time at Caltech, I worked with Leonard Schulman in the Theory of Computation group, working on causal identification algorithms within the Do-Calculus framework. During two of my undergraduate summmers, I worked in the Supertech group at MIT with Charles Leiserson.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
