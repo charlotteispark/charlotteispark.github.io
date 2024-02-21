@@ -8,4 +8,4 @@ nav_order: 1
 
 In chronological order:
 
-[1] S. Mann\*, **C. Park**\*, D. Shah. Exploiting Observation Bias to Improve Matrix Completion, *in submission*, 2023
+[1] Y. Jedra, S. Mann\*, **C. Park**\*, D. Shah. Exploiting Observation Bias to Improve Matrix Completion, *in submission*, 2024
