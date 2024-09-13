@@ -11,9 +11,9 @@
   contents:
     - title: PhD
       institution: Massachusetts Institute of Technology
-      year: 2022-2027
+      year: 2022-2028
       description:
-        - Advised by Professor Devavrat Shah
+        - SM earned May 2024
     - title: BS
       institution: California Institute of Technology
       year: 2018-2022
@@ -23,7 +23,13 @@
   contents:
     - title: Graduate Researcher (PhD Student)
       institution: Massachusetts Institute of Technology, Cambridge, MA
-      year: 2022-Present
+      year: 2024-present
+      description:
+        - Advised by Professor Manish Raghavan and Professor Ashia Wilson
+        - Working on something tbd
+    - title: Graduate Researcher (SM Student)
+      institution: Massachusetts Institute of Technology, Cambridge, MA
+      year: 2022-2024
       description:
         - Advised by Professor Devavrat Shah
         - Developing methods in causal inference, high-dimensional statistics, and machine learning
@@ -54,6 +60,7 @@
     - year: 2024
       items:
         - Siebel Scholar
+        - GEM Fellow
     - year: 2022
       items:
         - MIT Presidential Fellowship
