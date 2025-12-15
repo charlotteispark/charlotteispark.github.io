@@ -14,7 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Under construction...
+Hi, I'm Charlotte! I am currently a fourth year EECS PhD student at MIT, advised by Manish Raghavan and Ashia Wilson. My work focuses on algorithmic problems related to the social impact of AI. I work on problems such as modeling human-AI communication, evaluating alignment in practical contexts, and measuring fairness in the context of generative AI.
+
+Prior to starting at MIT, I received my bachelors from Caltech in Computer Science, where I worked with Leonard Schulman in the Theory of Computation group. During my PhD, I have interned in the Exploratory and Mathematical Sciences group at IBM Research, under the mentorship of Parikshit Ram.
+
+My research has been supported by an MIT Presidential Fellowship, a Siebel Scholarship, and a GEM Fellowship.
 
 <!-- Hi, I'm Charlotte! I am currently a second year EECS PhD student at MIT, affiliated with the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) (MIT LIDS). I am advised by [Devavrat Shah](https://devavrat.mit.edu/). My research interests lie in causal inference, algorithms, and more broadly in both theoretical computer science and ML theory.
 
