@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.eecs.mit.edu/'>PhD Student at MIT</a>. Computer Science Researcher.
+subtitle:
 
 profile:
   align: right
